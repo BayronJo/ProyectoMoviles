@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ProyectoMoviles</string>
+    <string name="Load">Cargando datos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="no_tienes_una_cuenta">¿No Tienes una Cuenta?</string>
+    <string name="registrate">Registrate</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Correo">Correo Electronico</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="verificar">Verificar</string>
+    <string name="terminosyusos">Acepto Términos y Condiciones</string>
+    <string name="usuario">Nombre de Usuario Requerido</string>
+    <string name="nombre">Ingresar Nombre</string>
+    <string name="apellido">Ingresar Apellido</string>
+    <string name="correo">Ingresar Correo</string>
+    <string name="contra">Ingresar Contraseña</string>
+    <string name="verifi">Repita la Contraseña</string>
+</resources>

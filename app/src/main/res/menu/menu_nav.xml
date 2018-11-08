@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mapaprincipal"
+        android:icon="@drawable/ic_map"
+        android:title="Mapa" />
+    <item
+        android:id="@+id/lugaresdisponibles"
+        android:icon="@drawable/ic_places"
+        android:title="Lugares" />
+    <item
+        android:id="@+id/visitado"
+        android:icon="@drawable/ic_places"
+        android:title="Mas Visitados" />
+</menu>
